@@ -1,2 +1,2 @@
-# Hackathon_27_9_25
-This repository is for the hackathon which will be held on 27.sept.2025 
+# Hackathon_21_9_25
+This repository is for the hackathon which will be held on 21.sept.2025 
